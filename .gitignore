@@ -1,0 +1,11 @@
+# ── Credentials — NEVER commit this file ──────────────────
+credentials.js
+
+# ── OS / editor noise ─────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+.vscode/
+.idea/
